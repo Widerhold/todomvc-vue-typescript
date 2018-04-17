@@ -10,7 +10,7 @@
   "license": "Apache-2.0",
   "scripts": {
     "webpack": "webpack --progress",
-    "serve": "webpack-dev-server --progress"
+    "start": "webpack-dev-server --progress"
   },
   "dependencies": {
     "todomvc-app-css": "^2.1.0",
